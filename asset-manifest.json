@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/searchboilerplate/static/css/main.1e7b9daa.chunk.css",
-    "main.js": "/searchboilerplate/static/js/main.41a62565.chunk.js",
-    "main.js.map": "/searchboilerplate/static/js/main.41a62565.chunk.js.map",
+    "main.js": "/searchboilerplate/static/js/main.2d331947.chunk.js",
+    "main.js.map": "/searchboilerplate/static/js/main.2d331947.chunk.js.map",
     "runtime~main.js": "/searchboilerplate/static/js/runtime~main.98f7c1f5.js",
     "runtime~main.js.map": "/searchboilerplate/static/js/runtime~main.98f7c1f5.js.map",
     "static/js/2.65aa1cca.chunk.js": "/searchboilerplate/static/js/2.65aa1cca.chunk.js",
     "static/js/2.65aa1cca.chunk.js.map": "/searchboilerplate/static/js/2.65aa1cca.chunk.js.map",
     "index.html": "/searchboilerplate/index.html",
-    "precache-manifest.ebbfd76b53385e1cadb9cc82f966b2bc.js": "/searchboilerplate/precache-manifest.ebbfd76b53385e1cadb9cc82f966b2bc.js",
+    "precache-manifest.7d9d630c8858394eaa334741f9368e34.js": "/searchboilerplate/precache-manifest.7d9d630c8858394eaa334741f9368e34.js",
     "service-worker.js": "/searchboilerplate/service-worker.js",
     "static/css/main.1e7b9daa.chunk.css.map": "/searchboilerplate/static/css/main.1e7b9daa.chunk.css.map"
   }
